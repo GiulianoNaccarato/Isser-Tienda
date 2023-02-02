@@ -1,0 +1,122 @@
+[
+    {
+        "id": "Disco de corte",
+        "titulo": "disco 80¨ ",
+        "imagen": "/img/Disco de corte 80.jpg", 
+        "categoria": {
+            "nombre": "Discos",
+            "id": "Discos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Disco 7416",
+        "titulo": "Disco 7416",
+        "imagen": "/img/Disco de corte 7416.jpg",
+        "categoria": {
+            "nombre": "Discos",
+            "id": "Discos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Disco 7418",
+        "titulo": "disco 7418",
+        "imagen": "/img/Disco de corte 7416.jpg",
+        "categoria": {
+            "nombre": "Discos",
+            "id": "Discos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Disco 178",
+        "titulo": "disco 178",
+        "imagen": "/img/disco de corte 178.jpg",
+        "categoria": {
+            "nombre": "Discos",
+            "id": "Discos"
+        },
+        "precio": 1000
+    },
+   
+    {
+        "id": "Adhesivos",
+        "titulo": "Adhesivo 125",
+        "imagen": "/img/Adhesivos-Losung-Profesional-con-pincel_.jpg",
+        "categoria": {
+            "nombre": "Adhesivos",
+            "id": "Adhesivos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Adhesivos",
+        "titulo": "Adhesivo 250",
+        "imagen": "/img/Adhesivos-Losung-250cc-con-pincel.jpg",
+        "categoria": {
+            "nombre": "Adhesivos",
+            "id": "Adhesivos"
+        },
+        "precio": 1000
+    },{
+        "id": "Adhesivos",
+        "titulo": "Adhesivo 500",
+        "imagen": "/img/xt-riego-500cc.jpg",
+        "categoria": {
+            "nombre": "Adhesivos",
+            "id": "Adhesivos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PVC",
+        "titulo": "PVC codo 90",
+        "imagen": "/img/Codo 90 grados.jpg",
+        "categoria": {
+            "nombre": "PVC",
+            "id": "PVC"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PVC",
+        "titulo": "PVC codo 45",
+        "imagen": "/img/Codo 45 grados.jpg",
+        "categoria": {
+            "nombre": "PVC",
+            "id": "PVC"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PVC",
+        "titulo": "PVC tee 110",
+        "imagen": "/img/Tee pvc 110.jpg",
+        "categoria": {
+            "nombre": "PVC",
+            "id": "PVC"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PVC",
+        "titulo": "PVC ramal 110",
+        "imagen": "/img/Ramal pvc.jpg",
+        "categoria": {
+            "nombre": "PVC",
+            "id": "PVC"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "PVC",
+        "titulo": "PVC pileta 20",
+        "imagen": "/img/Pileta de patio pvc 20x20.jpg",
+        "categoria": {
+            "nombre": "PVC",
+            "id": "PVC"
+        },
+        "precio": 1000
+    }
+]
